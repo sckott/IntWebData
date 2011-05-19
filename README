@@ -1,0 +1,1 @@
+This repo is for the development of a package for interfacing with the Interaction Web Database (http://www.nceas.ucsb.edu/interactionweb/), a website that hosts datasets on ecological networks. The package goals are to allow download of datasets, querying of taxonomic names in the datasets, and simple network plotting (using package bipartite). 
